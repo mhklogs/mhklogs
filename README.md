@@ -20,13 +20,13 @@
   </tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Oswald&weight=600&size=22&duration=3500&pause=700&color=E50914&background=0D0D0D&center=true&vCenter=true&width=760&height=70&lines=AI+ENGINEER+%26+SQA+SPECIALIST&lines=BUILDING+%26+VALIDATING+AI+DRIVEN+SOLUTIONS&lines=AUTONOMOUS+AGENTS+%7C+RIGOROUS+SQA+AUDITING&lines=RAWALPINDI+%2F+ISLAMABAD%2C+PAKISTAN)](https://github.com/hklogs)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Oswald&weight=600&size=22&duration=3500&pause=700&color=E50914&background=0D0D0D&center=true&vCenter=true&width=760&height=70&lines=AI+ENGINEER+%26+SQA+SPECIALIST&lines=BUILDING+%26+VALIDATING+AI+DRIVEN+SOLUTIONS&lines=AUTONOMOUS+AGENTS+%7C+RIGOROUS+SQA+AUDITING&lines=RAWALPINDI+%2F+ISLAMABAD%2C+PAKISTAN)](https://github.com/mhklogs)
 
-[![Status](https://img.shields.io/badge/AVAILABLE+FOR+FREELANCE+%26+AUDITS-E50914?style=flat&labelColor=0D0D0D)](https://github.com/hklogs)
-[![Location](https://img.shields.io/badge/RAWALPINDI+%2F+ISLAMABAD-PAKISTAN-E50914?style=flat&labelColor=0D0D0D)](https://github.com/hklogs)
-[![Views](https://komarev.com/ghpvc/?username=hklogs&color=E50914&style=flat)](https://github.com/hklogs)
+[![Status](https://img.shields.io/badge/AVAILABLE+FOR+FREELANCE+%26+AUDITS-E50914?style=flat&labelColor=0D0D0D)](https://github.com/mhklogs)
+[![Location](https://img.shields.io/badge/RAWALPINDI+%2F+ISLAMABAD-PAKISTAN-E50914?style=flat&labelColor=0D0D0D)](https://github.com/mhklogs)
+[![Views](https://komarev.com/ghpvc/?username=mhklogs&color=E50914&style=flat)](https://github.com/mhklogs)
 
-<a href="https://github.com/hklogs"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%40hklogs-E50914?style=flat&logo=github&logoColor=white&labelColor=0D0D0D"></a>
+<a href="https://github.com/mhklogs"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%40mhklogs-E50914?style=flat&logo=github&logoColor=white&labelColor=0D0D0D"></a>
 <a href="https://www.linkedin.com/in/hassaan-abdullah-kiyani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hassaan+Abdullah+Kiyani-E50914?style=flat&logo=linkedin&logoColor=white&labelColor=0D0D0D"></a>
 <a href="https://medium.com/@hklogs"><img alt="Medium" src="https://img.shields.io/badge/Medium-%40hklogs-E50914?style=flat&logo=medium&logoColor=white&labelColor=0D0D0D"></a>
 <a href="mailto:hassaanabdullahkayani@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hassaanabdullahkayani%40gmail.com-E50914?style=flat&logo=gmail&logoColor=white&labelColor=0D0D0D"></a>
@@ -37,22 +37,34 @@
 
 ---
 
+## <code>00</code> · PORTFOLIO
+
+**Everything live in one place → [`mhklogs.vercel.app`](https://mhklogs.vercel.app)**
+
+<p align="center">
+<a href="https://mhklogs.vercel.app"><img src="https://img.shields.io/badge/VIEW+LIVE+PORTFOLIO-mhklogs.vercel.app-E50914?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D0D" alt="View Live Portfolio"></a>
+</p>
+
+> All source repos on this profile are private; the live, working products are showcased on the portfolio and rendered below.
+
+---
+
 ## <code>01</code> · ABOUT
 
 **Building and validating AI driven solutions.**
 
 I'm an **AI Engineer & SQA Specialist** based in **Rawalpindi / Islamabad, Pakistan** — engineering autonomous agentic AI systems while holding them to the same rigorous QA standards I audit every product against: deterministic verification pipelines, boundary-value discipline, and machine cognition architectures.
 
-Currently: **AI Engineer @ Tritanium Global** · **Executive R&D @ Primus Leads LLC** ·  Final-year **BS Software Engineering @ UIIT PMAS-Arid Agriculture University**.
+Currently: **AI Engineer @ Tritanium Global** · **Executive R&D @ Primus Leads LLC** · Final-year **BS Software Engineering @ UIIT PMAS-Arid Agriculture University**.
 
 - **SQA & Testing** — Manual & automated testing, boundary value analysis, heuristic validation, predictive log auditing.
 - **AI / Agents** — LangGraph & LangChain orchestration, Gemini Pro/Flash & Vertex AI integration, computer vision, RAG pipelines.
 - **Engineering** — Full-stack builds on React / Next.js / TypeScript, Node / Express / FastAPI, Postgres / Mongo / Supabase / Firebase.
 
 <p align="center">
-<img src="https://img.shields.io/badge/40%2B-QA+Audits+%26+Builds-E50914?style=flat&labelColor=0D0D0D" alt="40+ QA Audits & Builds">
-<img src="https://img.shields.io/badge/30%2B-GitHub+Repositories-E50914?style=flat&labelColor=0D0D0D" alt="30+ GitHub Repositories">
-<img src="https://img.shields.io/badge/3%2B-Years+Dev+Track-E50914?style=flat&labelColor=0D0D0D" alt="3+ Years Dev Track">
+<img src="https://img.shields.io/badge/50%2B-QA+Audits+%26+Builds-E50914?style=flat&labelColor=0D0D0D" alt="50+ QA Audits & Builds">
+<img src="https://img.shields.io/badge/45%2B-GitHub+Repositories-E50914?style=flat&labelColor=0D0D0D" alt="45+ GitHub Repositories">
+<img src="https://img.shields.io/badge/4%2B-Years+Dev+Track-E50914?style=flat&labelColor=0D0D0D" alt="4+ Years Dev Track">
 <img src="https://img.shields.io/badge/4%2B-Published+Essays-E50914?style=flat&labelColor=0D0D0D" alt="4+ Published Essays">
 </p>
 
@@ -107,14 +119,14 @@ Currently: **AI Engineer @ Tritanium Global** · **Executive R&D @ Primus Leads 
 ## <code>03</code> · LIVE METRICS
 
 <p align="center">
-<a href="https://github.com/hklogs"><img src="https://img.shields.io/github/followers/hklogs?style=flat&label=Followers&color=E50914&labelColor=0D0D0D" alt="Followers"></a>
-<a href="https://github.com/hklogs"><img src="https://img.shields.io/github/stars/hklogs?style=flat&label=Stars&color=E50914&labelColor=0D0D0D" alt="Stars"></a>
-<a href="https://github.com/hklogs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hklogs&background=0D0D0D&border=262626&stroke=262626&ring=FF2E37&fire=E50914&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E50914&sideLabels=A1A1AA&dates=8E8E93&hide_border=false" alt="GitHub Streak"></a>
+<a href="https://github.com/mhklogs"><img src="https://img.shields.io/github/followers/mhklogs?style=flat&label=Followers&color=E50914&labelColor=0D0D0D" alt="Followers"></a>
+<a href="https://github.com/mhklogs"><img src="https://img.shields.io/github/stars/mhklogs?style=flat&label=Stars&color=E50914&labelColor=0D0D0D" alt="Stars"></a>
+<a href="https://github.com/mhklogs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhklogs&background=0D0D0D&border=262626&stroke=262626&ring=FF2E37&fire=E50914&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E50914&sideLabels=A1A1AA&dates=8E8E93&hide_border=false" alt="GitHub Streak"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/hklogs">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hklogs&bg_color=0D0D0D&color=A1A1AA&line=E50914&point=FF2E37&area=true&border_color=262626&radius=0" alt="Contribution Activity Graph">
+<a href="https://github.com/mhklogs">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhklogs&bg_color=0D0D0D&color=A1A1AA&line=E50914&point=FF2E37&area=true&border_color=262626&radius=0" alt="Contribution Activity Graph">
 </a>
 </p>
 
@@ -122,16 +134,25 @@ Currently: **AI Engineer @ Tritanium Global** · **Executive R&D @ Primus Leads 
 
 ## <code>04</code> · FEATURED BUILDS
 
-| PROJECT | STACK | LINKS |
+| PROJECT | STACK | LIVE |
 | --- | --- | --- |
-| **AutonAI**<br>Autonomous agentic AI framework orchestrating recursive prompt loops and validated cognitive workflows. | Python · TypeScript · LangChain · Gemini API | [GitHub](https://github.com/hklogs/AutonAI) |
-| **CBO-RuralWSD**<br>Offline-first rural water billing PWA — consumer ledgers, payment queues, tanker tracking, offline sync. | React · Express · Firebase · PostgreSQL · PWA | [Live](https://cboruralwater.vercel.app) |
-| **AI Recruitment Auditor**<br>Gemini-powered CV screening portal generating compatibility scores and SQA test matrices. | Next.js · React · Gemini API · Tailwind CSS | [Live](https://ai-recruitment-auditor.vercel.app) |
-| **Sentient AI Multimodal Hub**<br>Retro-terminal interface for concurrent text, image, and audio reasoning via Gemini Pro. | React · Vite · Gemini Pro · Web Audio API | [Live](https://sentient-ai-multimodal-hub.vercel.app) |
-| **AI Podcast Agent**<br>LangGraph multi-agent orchestrator: research, scriptwriting, critique, and TTS audio synthesis. | LangGraph · Python · Gemini API · TTS | [GitHub](https://github.com/hklogs/AI-powered-Podcast-Agent) |
-| **Ishaara Sign Language Translator**<br>Real-time Pakistani Sign Language (PSL) translation to Urdu speech and text. | React · TensorFlow.js · OpenCV · MediaPipe | [Live](https://react-sign-language-workspace.vercel.app) |
+| **Haze Agent Suite**<br>Agentic AI control room — research, automation & coding agents in one dashboard. | React · Vite · Gemini API | [Live](https://haze-agent-suite-7rirzeff2-hasaanzia02-8696s-projects.vercel.app) |
+| **FixIt — Home Services OS**<br>End-to-end home-services marketplace & dispatch platform. | Next.js · TypeScript · Supabase | [Live](https://fixit-rouge.vercel.app) |
+| **Nexus-fx**<br>AI trading & analytics workspace. | TypeScript · React · Tailwind | [Live](https://nexus-9w3787l6m-hasaanzia02-8696s-projects.vercel.app) |
+| **Prioriti Task Manager**<br>Weight-aware task manager with offline-first sync. | HTML5 · JS · PWA Workers | [Live](https://prioriti-3xghpjyz7-hasaanzia02-8696s-projects.vercel.app) |
+| **MarketForge / NexLeed CRM**<br>Lead generation CRM with AI outreach. | React · Node · MongoDB · Gemini 2.0 | [Live](https://marketforge-3l8zzgbmc-hasaanzia02-8696s-projects.vercel.app) |
+| **AI Recruitment Auditor**<br>Gemini-powered CV screening with SQA test matrices. | Next.js · React · Gemini API | [Live](https://ai-recruitment-auditor-egx5fv2cx-hasaanzia02-8696s-projects.vercel.app) |
+| **Sentient AI Multimodal Hub**<br>Retro-terminal reasoning over text, image & audio. | React · Vite · Gemini Pro | [Live](https://sentient-ai-multimodal-lmxye79gk-hasaanzia02-8696s-projects.vercel.app) |
+| **AI Podcast Agent**<br>LangGraph research → script → TTS podcast pipeline. | LangGraph · Python · Gemini API | [Live](https://ai-powered-podcast-agent-r4np9h38s-hasaanzia02-8696s-projects.vercel.app) |
+| **Relevnt**<br>Legal compliance search with RAG + Grok API. | Python · HF Embeddings · RAG | [Live](https://relevnt-5gnwjm3g8-hasaanzia02-8696s-projects.vercel.app) |
+| **Bridgebot Code Migrator**<br>AST-driven cross-language code migration agent. | React · Node · Gemini API | [Live](https://code-migration-agent-2bbgr640h-hasaanzia02-8696s-projects.vercel.app) |
+| **optimared Pricing Agent**<br>Retail price optimizer with competitor catalog scraping. | Python · Scrapy · FastAPI | [Live](https://optimared-ai-pricing-agent-9siewet3h-hasaanzia02-8696s-projects.vercel.app) |
+| **getAI Recruitment Portal**<br>Resume parsing + Gemini compatibility scoring. | Next.js · Gemini API · PostgreSQL | [Live](https://ai-recruitment-auditor-egx5fv2cx-hasaanzia02-8696s-projects.vercel.app) |
+| **CBO-RuralWSD**<br>Offline-first rural water billing PWA. | React · Express · Firebase · PWA | [Live](https://cboruralwater.vercel.app) |
+| **Ishaara Sign Language Translator**<br>Real-time PSL → Urdu speech & text. | React · TensorFlow.js · MediaPipe | [Live](https://ishaara-sign-language-translator.vercel.app) |
+| **AutonAI**<br>Autonomous agentic AI framework with cognitive workflows. | Python · TypeScript · LangChain | [Live](https://auton-ai.vercel.app) |
 
-> More builds — GetAuto, Agentic Legal Assistant, Bridgebot, MarketForge, ReferralClose, PocketMint — live across [github.com/hklogs](https://github.com/hklogs).
+> Dozens more shipped products — Kareemiya, liberty-assist, GeoEngineAI, scientific research agent, referralclose, home-service marketplaces — are all browsable live at [`mhklogs.vercel.app`](https://mhklogs.vercel.app).
 
 ---
 
@@ -147,7 +168,7 @@ Currently: **AI Engineer @ Tritanium Global** · **Executive R&D @ Primus Leads 
 ## <code>06</code> · CONNECT
 
 <p align="center">
-<a href="https://github.com/hklogs"><img src="https://img.shields.io/badge/GitHub-github.com%2Fhklogs-E50914?style=flat&logo=github&logoColor=white&labelColor=0D0D0D" alt="GitHub"></a>
+<a href="https://github.com/mhklogs"><img src="https://img.shields.io/badge/GitHub-github.com%2Fmhklogs-E50914?style=flat&logo=github&logoColor=white&labelColor=0D0D0D" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/hassaan-abdullah-kiyani/"><img src="https://img.shields.io/badge/LinkedIn-hassaan-abdullah-kiyani-E50914?style=flat&logo=linkedin&logoColor=white&labelColor=0D0D0D" alt="LinkedIn"></a>
 <a href="https://medium.com/@hklogs"><img src="https://img.shields.io/badge/Medium-%40hklogs-E50914?style=flat&logo=medium&logoColor=white&labelColor=0D0D0D" alt="Medium"></a>
 <a href="mailto:hassaanabdullahkayani@gmail.com"><img src="https://img.shields.io/badge/Email-hassaanabdullahkayani%40gmail.com-E50914?style=flat&logo=gmail&logoColor=white&labelColor=0D0D0D" alt="Email"></a>

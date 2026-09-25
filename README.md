@@ -116,12 +116,21 @@ Currently: **AI Engineer @ Tritanium Global** · **Executive R&D @ Primus Leads 
 
 ---
 
-## <code>03</code> · LIVE METRICS
+## <code>03</code> · BUILD SIGNAL
 
 <p align="center">
 <a href="https://github.com/mhklogs"><img src="https://img.shields.io/github/followers/mhklogs?style=flat&label=Followers&color=E50914&labelColor=0D0D0D" alt="Followers"></a>
 <a href="https://github.com/mhklogs"><img src="https://img.shields.io/github/stars/mhklogs?style=flat&label=Stars&color=E50914&labelColor=0D0D0D" alt="Stars"></a>
-<a href="https://github.com/mhklogs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhklogs&background=0D0D0D&border=262626&stroke=262626&ring=FF2E37&fire=E50914&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E50914&sideLabels=A1A1AA&dates=8E8E93&hide_border=false" alt="GitHub Streak"></a>
+<a href="https://github.com/mhklogs?tab=repositories"><img src="https://img.shields.io/github/repos/mhklogs?style=flat&label=Repositories&color=E50914&labelColor=0D0D0D" alt="Repositories"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/mhklogs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhklogs&background=0D0D0D&border=262626&stroke=262626&ring=FF2E37&fire=E50914&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E50914&sideLabels=A1A1AA&dates=8E8E93&hide_border=false&hide_current_streak=true" alt="GitHub Contribution Stats"></a>
+</p>
+
+<p align="center">
+<strong>265+ public contributions since August 2024</strong><br>
+Live totals, longest streak, and activity graph synced from GitHub.
 </p>
 
 <p align="center">

@@ -45,7 +45,7 @@
 <a href="https://mhklogs.vercel.app"><img src="https://img.shields.io/badge/VIEW+LIVE+PORTFOLIO-mhklogs.vercel.app-E50914?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D0D" alt="View Live Portfolio"></a>
 </p>
 
-> All source repos on this profile are private; the live, working products are showcased on the portfolio and rendered below.
+> Live, working products are showcased on the portfolio and rendered below. Source for some of these is private — the public repos on this profile are browsable directly.
 
 ---
 
@@ -63,7 +63,7 @@ Currently: **AI Engineer @ Tritanium Global** · **Executive R&D @ Primus Leads 
 
 <p align="center">
 <img src="https://img.shields.io/badge/50%2B-QA+Audits+%26+Builds-E50914?style=flat&labelColor=0D0D0D" alt="50+ QA Audits & Builds">
-<img src="https://img.shields.io/badge/45%2B-GitHub+Repositories-E50914?style=flat&labelColor=0D0D0D" alt="45+ GitHub Repositories">
+<img src="https://img.shields.io/badge/40%2B-GitHub+Repositories-E50914?style=flat&labelColor=0D0D0D" alt="40+ GitHub Repositories">
 <img src="https://img.shields.io/badge/4%2B-Years+Dev+Track-E50914?style=flat&labelColor=0D0D0D" alt="4+ Years Dev Track">
 <img src="https://img.shields.io/badge/4%2B-Published+Essays-E50914?style=flat&labelColor=0D0D0D" alt="4+ Published Essays">
 </p>

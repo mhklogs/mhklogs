@@ -63,7 +63,7 @@ Currently: **AI Engineer @ Tritanium Global** · **Executive R&D @ Primus Leads 
 
 <p align="center">
 <img src="https://img.shields.io/badge/50%2B-QA+Audits+%26+Builds-E50914?style=flat&labelColor=0D0D0D" alt="50+ QA Audits & Builds">
-<img src="https://img.shields.io/badge/70%2B-GitHub+Repositories-E50914?style=flat&labelColor=0D0D0D" alt="70+ GitHub Repositories">
+<img src="https://img.shields.io/badge/70%2B-GitHub+Repositories+%2829+Public+%7C+41+Private%29-E50914?style=flat&labelColor=0D0D0D" alt="70+ GitHub Repositories (29 Public | 41 Private)">
 <img src="https://img.shields.io/badge/4%2B-Years+Dev+Track-E50914?style=flat&labelColor=0D0D0D" alt="4+ Years Dev Track">
 <img src="https://img.shields.io/badge/4%2B-Published+Essays-E50914?style=flat&labelColor=0D0D0D" alt="4+ Published Essays">
 </p>

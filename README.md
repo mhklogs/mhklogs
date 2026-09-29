@@ -125,7 +125,7 @@ Currently: **AI Engineer @ Tritanium Global** · **Executive R&D @ Primus Leads 
 </p>
 
 <p align="center">
-<a href="https://github.com/mhklogs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhklogs&background=0D0D0D&border=262626&stroke=262626&ring=FF2E37&fire=E50914&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E50914&sideLabels=A1A1AA&dates=8E8E93&hide_border=false&hide_current_streak=true" alt="GitHub Contribution Stats"></a>
+<a href="https://github.com/mhklogs"><img src="https://streak-stats.demolab.com/?user=mhklogs&background=0D0D0D&border=262626&stroke=262626&ring=FF2E37&fire=E50914&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E50914&sideLabels=A1A1AA&dates=8E8E93&hide_border=false" alt="GitHub Streak Stats"></a>
 </p>
 
 <p align="center">

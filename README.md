@@ -130,13 +130,7 @@ Currently: **AI Engineer @ Tritanium Global** · **Executive R&D @ Primus Leads 
 
 <p align="center">
 <strong>265+ public contributions since August 2024</strong><br>
-Live totals, longest streak, and activity graph synced from GitHub.
-</p>
-
-<p align="center">
-<a href="https://github.com/mhklogs">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhklogs&bg_color=0D0D0D&color=A1A1AA&line=E50914&point=FF2E37&area=true&border_color=262626&radius=0" alt="Contribution Activity Graph">
-</a>
+Live totals, longest streak, and contribution data synced from GitHub.
 </p>
 
 ---
@@ -145,6 +139,8 @@ Live totals, longest streak, and activity graph synced from GitHub.
 
 | PROJECT | STACK | LIVE |
 | --- | --- | --- |
+| **meridian-showcase-template**<br>Cinematic real-estate brokerage site — canvas hero, pinned carousel, SVG market map. | React 19 · Vite · GSAP · Lenis | [Repo](https://github.com/mhklogs/meridian-showcase-template) |
+| **fixnear-marketplace-template**<br>Home-services marketplace — contractor directory, lead wizard, Gemini chat. | React · Vite · Supabase · Gemini | [Repo](https://github.com/mhklogs/fixnear-marketplace-template) |
 | **Haze Agent Suite**<br>Agentic AI control room — research, automation & coding agents in one dashboard. | React · Vite · Gemini API | [Live](https://haze-agent-suite-7rirzeff2-hasaanzia02-8696s-projects.vercel.app) |
 | **FixIt — Home Services OS**<br>End-to-end home-services marketplace & dispatch platform. | Next.js · TypeScript · Supabase | [Live](https://fixit-rouge.vercel.app) |
 | **Nexus-fx**<br>AI trading & analytics workspace. | TypeScript · React · Tailwind | [Live](https://nexus-9w3787l6m-hasaanzia02-8696s-projects.vercel.app) |
